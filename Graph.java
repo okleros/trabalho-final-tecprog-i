@@ -18,7 +18,7 @@ public class Graph {
 
 	public Vertex getVertexByValue(String value) {
 		for (Vertex v : this.vertices) {
-			if (v.getData() == value) {
+			if (v.getData().equals(value)) {
 				return v;
 			}
 		}

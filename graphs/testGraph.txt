@@ -1,0 +1,14 @@
+WUG
+{A, B, C, D, E, F, G}
+A B 55.6
+A C 155.6
+A D 5.6
+A E 55.64
+A F 15.2
+A G 5
+G B 11
+G F 13.5
+B F 12.5
+B G 10.9
+D A 1.5
+F D 13.2
